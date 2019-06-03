@@ -1,7 +1,7 @@
-var models = require('../models');
-var express = require('express');
-var router = express.Router();
-var cors = require('cors')
+const models = require('../models');
+const express = require('express');
+const router = express.Router();
+const cors = require('cors')
 
 router.use(cors());
 
