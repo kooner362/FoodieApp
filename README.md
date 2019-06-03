@@ -13,46 +13,46 @@ Users can make submissions of new or missing restaurants and dishes through the 
 ### Home Page
 ---
 
-!["Screenshot of Home page"](https://github.com/BanaBatshon/Final-Project/blob/master/docs/homepage.png)
+!["Screenshot of Home page"](https://raw.githubusercontent.com/kooner362/Final-Project/master/docs/homepage.png)
 
 ### Search Results
 ---
 
-!["Screenshot of Search Results"](https://github.com/BanaBatshon/Final-Project/blob/master/docs/search_results.png)
+!["Screenshot of Search Results"](https://raw.githubusercontent.com/kooner362/Final-Project/master/docs/search_results.png)
 
 ### Restaurant Details
 ---
 
-!["Screenshot of Restaurant Details"](https://github.com/BanaBatshon/Final-Project/blob/master/docs/restaurant_details.png)
+!["Screenshot of Restaurant Details"](https://raw.githubusercontent.com/kooner362/Final-Project/master/docs/restaurant_details.png)
 
 ### Add Rating
 ---
 
-!["Screenshot of Add Ratings"](https://github.com/BanaBatshon/Final-Project/blob/master/docs/add_rating.png)
+!["Screenshot of Add Ratings"](https://raw.githubusercontent.com/kooner362/Final-Project/master/docs/add_rating.png)
 
 ### My Ratings
 ---
 
-!["Screenshot of My Ratings"](https://github.com/BanaBatshon/Final-Project/blob/master/docs/my_ratings.png)
+!["Screenshot of My Ratings"](https://raw.githubusercontent.com/kooner362/Final-Project/master/docs/my_ratings.png)
 
 ### New Restaurant Submission
 ---
 
-!["Screenshot of New Restaurant Submission"](https://github.com/BanaBatshon/Final-Project/blob/master/docs/new_restaurant_submission.png)
+!["Screenshot of New Restaurant Submission"](https://raw.githubusercontent.com/kooner362/Final-Project/master/docs/new_restaurant_submission.png)
 
 ### New Dishes Submission
 ---
 
-!["Screenshot of New Dishes Submission"](https://github.com/BanaBatshon/Final-Project/blob/master/docs/new_dishes_submission.png)
+!["Screenshot of New Dishes Submission"](https://raw.githubusercontent.com/kooner362/Final-Project/master/docs/new_dishes_submission.png)
 
 ### Admin: Approve Dishes
 ---
 
-!["Screenshot of Approve Dishes"](https://github.com/BanaBatshon/Final-Project/blob/master/docs/approve_dishes.png)
+!["Screenshot of Approve Dishes"](https://raw.githubusercontent.com/kooner362/Final-Project/master/docs/approve_dishes.png)
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/BanaBatshon/Final-Project.git`
+1. Clone this repository: `git clone https://github.com/kooner362/Final-Project.git`
 2. Change directory to backend server directory: `cd Final-Project/final_project_backend`
 2. Install dependencies: `npm i`
 3. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
